@@ -8,6 +8,8 @@ public class GitHub01 {
 		
 		System.out.println("Deneme 3");
 		
+		System.out.println("Deneme from GITHUB Master");
+		
 	}
 
 }
